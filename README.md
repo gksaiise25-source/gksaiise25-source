@@ -22,7 +22,7 @@
 </div>
 
 ---
-### Activity & Statistics
+### Activity ans Statistics
 
 
 

@@ -36,6 +36,13 @@
 
 <img src="https://streak-stats.demolab.com/?user=gksaiise25-source&hide_border=false&background=0D1117&border=00C896&stroke=00C896&ring=00C896&fire=00C896&currStreakLabel=00C896&sideLabels=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=8B949E"/>
 
+<div align="center">
+  
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gksaiise25-source&theme=tokyo-night&bg_color=0d1117&color=00C896&line=00C896&point=00C896&area=true&hide_border=false&border_color=00C896&radius=10" width="100%"/>
+</div>
+
+
 </div>
 
 <br/>
